@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","UI","entity","centerPoint"],collisionMatrix:[[true,false],[false,true],[false,false,false],[false,false,false,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/blyx.fire",orientation:"portrait",jsList:[]};

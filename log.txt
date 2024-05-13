@@ -1,0 +1,59 @@
+commit 2af0063876c70235c872b185d5e1c2af4e23266a
+Author: zhoujingyang <1941629705@qq.com>
+Date:   Sat May 11 15:52:59 2024 +0800
+
+    增加sat格子碰撞组件 四叉树
+
+commit c07ab3e6e3691a01f1d9aaf527c92a4055bf03da
+Author: zengsi <56343993+TsangSi@users.noreply.github.com>
+Date:   Sat May 11 10:33:30 2024 +0800
+
+    修正地图不显示墙体的问题，优化可视区域根据当前屏幕大小进行更新显示
+
+commit 7f6666c869da4763b7cf4e328969a4c99a1d8e5d
+Author: zhoujingyang <1941629705@qq.com>
+Date:   Sat May 11 10:22:44 2024 +0800
+
+    增加sat格子碰撞组件 四叉树
+
+commit 7e7af6eec22d6b31b0e14ea5c7f1fcbec344f451
+Author: zhoujingyang <1941629705@qq.com>
+Date:   Fri May 10 17:24:22 2024 +0800
+
+    增加sat格子碰撞组件 四叉树
+
+commit 787e1233353fd25a476ae27095e6d431b3acf6b5
+Author: zhoujingyang <1941629705@qq.com>
+Date:   Fri May 10 17:21:54 2024 +0800
+
+    增加sat格子碰撞组件 四叉树
+
+commit 46fa81d6551f065f8592e5336566166711f6e820
+Author: kexudong <kexd2004@163.com>
+Date:   Fri May 10 17:14:54 2024 +0800
+
+    掉队后使用自动寻路
+
+commit f2272317d21eba7995031ec9ce086db2ccdf21c6
+Author: zhoujingyang <1941629705@qq.com>
+Date:   Fri May 10 16:21:11 2024 +0800
+
+    增加sat格子碰撞组件
+
+commit b8c21038d0912a32830ca800d992f6e58176d028
+Author: kexudong <kexd2004@163.com>
+Date:   Fri May 10 16:05:45 2024 +0800
+
+    加个判空
+
+commit a4b8a797c1ed525bc2c9c006e4c5926fae9e380e
+Author: kexudong <kexd2004@163.com>
+Date:   Fri May 10 15:49:01 2024 +0800
+
+    Role Monster 的基类 Entity
+
+commit 3d42b042f824b72cf151830c7c11f4b0f914f726
+Author: kexudong <kexd2004@163.com>
+Date:   Fri May 10 14:33:14 2024 +0800
+
+    先屏蔽测试的路点层绘制
